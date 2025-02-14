@@ -1,5 +1,6 @@
 # TopUp News Android App  
 
 ## 📱 App Screenshot  
-![Home Screen](app_ss.jpg)  
+<img src="app_ss.jpg" alt="Home Screen" width="400">
+
 
